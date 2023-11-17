@@ -96,3 +96,5 @@ gem "cssbundling-rails", "~> 1.3"
 gem "kaminari", "~> 1.2", :git => "https://github.com/jasonfb/kaminari.git", :branch => "master"
 
 gem "devise", "~> 4.9"
+
+gem "nonschema_migrations", "~> 6.5"
